@@ -46,7 +46,7 @@ We have several projects each year from the industry to ensure the applications 
 + Top 2% of Scientists on Stanford List
 + Five papers published in T-PAMI'2023
 
-<span class='anchor' id='-student'></span>
+<span class='anchor' id='-group'></span>
 
 ## Students
 
@@ -65,7 +65,7 @@ We have several projects each year from the industry to ensure the applications 
 + `Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
 + `Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-pub'></span>
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
@@ -178,4 +178,15 @@ CoordAttention">[Code]</a></p>
   <p style="line-height:15px"> <a href="https://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SeeNet">[Code]</a></p>   
   </sub>
 </blockquote>
+
+<span class='anchor' id='-services'></span>
+
++ VALSE 2022 Expo Chair
++ VALSE 2023 Expo Chair
+
+<span class='anchor' id='-awards'></span>
+
++ First prize in natural science, Ministry of Education, 2022.
++ Second prize in nature science, CAAI, 2020.
+
 
