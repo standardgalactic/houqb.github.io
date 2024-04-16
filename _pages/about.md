@@ -181,10 +181,15 @@ CoordAttention">[Code]</a></p>
 
 <span class='anchor' id='-services'></span>
 
+## Academic Services
+
 + VALSE 2022 Expo Chair
 + VALSE 2023 Expo Chair
++ Reviewers for TPAMI/TIP/CVPR/ICCV/NeurIPS/ICML/ICLR etc.
 
 <span class='anchor' id='-awards'></span>
+
+## Honors and Awards
 
 + First prize in natural science, Ministry of Education, 2022.
 + Second prize in nature science, CAAI, 2020.
