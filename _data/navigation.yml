@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
+  - title: "About me"
+    url: "/houqb.github.io/#about-me"
 
   - title: "学历"
     url: "/zh-cn/#-xl"
