@@ -48,7 +48,7 @@ We have several projects each year from the industry to ensure the applications 
 
 <span class='anchor' id='-group'></span>
 
-## Students
+## Group
 
 #### Ph.D. Students
 
