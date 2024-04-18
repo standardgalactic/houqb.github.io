@@ -58,7 +58,7 @@ We have several projects each year from the industry to ensure the applications 
 + `Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
 + `Hao Shao`
 + `Bowen Yin` 
-+ [`Xuying Zhang (Co-supervise with Ming-Ming Cheng)`](https://zhangxuying1004.github.io/)
++ [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng)
 
 #### Master Students
 
