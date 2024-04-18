@@ -53,18 +53,18 @@ We have several projects each year from the industry to ensure the applications 
 
 #### Ph.D. Students
 
-+ `Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)`
-+ `Jiabao Wang (Co-supervise with Ming-Ming Cheng)`
-+ `Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
-+ `Hao Shao`
-+ `Bowen Yin` 
++ Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)
++ Jiabao Wang (Co-supervise with Ming-Ming Cheng)
++ Boyuan Sun (Co-supervise with Prof. Xiuli Shao)
++ Hao Shao
++ Bowen Yin
 + [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng)
 
 #### Master Students
 
-+ `Yupeng Zhou` 
-+ `Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
-+ `Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
++ Yupeng Zhou
++ Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)
++ Yuming Chen (Co-supervise with Prof. Xiuli Shao)
  
 <span class='anchor' id='-pub'></span>
 
