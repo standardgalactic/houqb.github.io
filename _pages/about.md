@@ -30,7 +30,7 @@ See my recent publications for more details.
 
 <span class='anchor' id='-fs'></span>
 
-## For perspective students
+## For prospective students
 
 If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[this]</a> already.
 
