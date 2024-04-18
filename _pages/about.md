@@ -40,6 +40,7 @@ We have several projects each year from the industry to ensure the applications 
 
 ## News
 
++ I am among the list of Highly Cited Chinese Researchers of 2023 in computer science
 + Five papers accepted by CVPR'24
 + Three papers accepted by ICLR'24 and AAAI'24
 + Three papers accepted by ICCV'23 and CVPR'23
