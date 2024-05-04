@@ -40,9 +40,9 @@ We have several projects each year from the industry to ensure the applications 
 
 ## News
 
-+ I am among the list of Highly Cited Chinese Researchers of 2023 in computer science
++ I am among the list of Highly Cited Chinese Researchers of 2023
 + Five papers accepted by CVPR'24
-+ Three papers accepted by ICLR'24 and AAAI'24
++ Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
 + Top 2% of Scientists on Stanford List
 + Five papers published in T-PAMI'2023
