@@ -40,6 +40,7 @@ We have several projects each year from the industry to ensure the applications 
 
 ## News
 
++ One paper accepted by T-PAMI'2024
 + I am among the list of Highly Cited Chinese Researchers of 2023
 + Five papers accepted by CVPR'24
 + Three papers accepted by ICLR'24 and ICML'24
@@ -71,6 +72,14 @@ We have several projects each year from the industry to ensure the applications 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
 #### "*" means authors contributed equally and "#" means corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Conv2former: A simple transformer-style convnet for visual recognition</h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Cheng-Ze Lu, Ming-Ming Cheng#, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2211.11943">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Conv2Former" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Vision permutator: A permutable mlp-like architecture for visual recognition</h4>   
