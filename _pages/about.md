@@ -69,9 +69,21 @@ We have several projects each year from the industry to ensure the applications 
  
 <span class='anchor' id='-pub'></span>
 
-## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+## Preprint
 
 #### "*" means authors contributed equally and "#" means corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</h4>   
+  <sub><p style="line-height:15px"> Yupeng Zhou, Daquan Zhou#, Ming-Ming Cheng, Jiashi Feng, <b>Qibin Hou</b># </p>
+  <p style="line-height:15px">Arxiv, 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2405.01434">[Arxiv]</a> <a href="https://storydiffusion.github.io/" class="redlink">[Project]</a> <a href="https://github.com/HVision-NKU/StoryDiffusion" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Conv2former: A simple transformer-style convnet for visual recognition</h4>   
