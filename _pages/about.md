@@ -45,7 +45,7 @@ We have several projects each year from the industry to ensure the applications 
 + Five papers accepted by CVPR'24
 + Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
-+ Top 2% of Scientists on Stanford List
++ Top 2% of Scientists on Stanford List for multiple times
 + Five papers published in T-PAMI'2023
 
 <span class='anchor' id='-group'></span>
