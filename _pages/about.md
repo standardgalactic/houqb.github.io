@@ -81,6 +81,14 @@ We have several projects each year from the industry to ensure the applications 
   </sub>
 </blockquote>
 
+<iframe 
+src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=StoryDiffusion&type=star&count=true&size=large" frameborder="0"
+scrolling="0"
+width="170"
+height="30"
+title="GitHub">
+</iframe>
+
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
 
