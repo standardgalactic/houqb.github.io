@@ -77,17 +77,17 @@ We have several projects each year from the industry to ensure the applications 
   <h4>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</h4>   
   <sub><p style="line-height:15px"> Yupeng Zhou, Daquan Zhou#, Ming-Ming Cheng, Jiashi Feng, <b>Qibin Hou</b># </p>
   <p style="line-height:15px">Arxiv, 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2405.01434">[Arxiv]</a> <a href="https://storydiffusion.github.io/" class="redlink">[Project]</a> <a href="https://github.com/HVision-NKU/StoryDiffusion" class="redlink">[Code]</a></p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2405.01434">[Arxiv]</a> <a href="https://storydiffusion.github.io/" class="redlink">[Project]</a> <a href="https://github.com/HVision-NKU/StoryDiffusion" class="redlink">[Code]</a><iframe 
+src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=StoryDiffusion&type=star&count=true&size=large" frameborder="0"
+scrolling="0"
+width="100"
+height="20"
+title="GitHub">
+</iframe> </p>   
   </sub>
 </blockquote>
 
-<iframe 
-src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=StoryDiffusion&type=star&count=true&size=large" frameborder="0"
-scrolling="0"
-width="170"
-height="30"
-title="GitHub">
-</iframe>
+
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
