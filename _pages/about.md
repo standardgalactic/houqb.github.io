@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the supervision of Prof. Ming-Ming Cheng. From 08/2019 to 08/2021, I spent two wonderful years working with Dr. Jiashi Feng and Dr. Shuicheng Yan as a research fellow at National University of Singapore. Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China. I am also with Nankai International Advanced Research Institute (Shenzhen Futian).
- <a href='https://scholar.google.com/citations?user=fF8OFV8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>。
+ <a href='https://scholar.google.com/citations?user=fF8OFV8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 ## Research Interests：
 
