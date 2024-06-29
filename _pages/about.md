@@ -78,10 +78,10 @@ We have several projects each year from the industry to ensure the applications 
   <sub><p style="line-height:15px"> Yupeng Zhou, Daquan Zhou#, Ming-Ming Cheng, Jiashi Feng, <b>Qibin Hou</b># </p>
   <p style="line-height:15px">Arxiv, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2405.01434">[Arxiv]</a> <a href="https://storydiffusion.github.io/" class="redlink">[Project]</a> <a href="https://github.com/HVision-NKU/StoryDiffusion" class="redlink">[Code]</a><iframe 
-src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=StoryDiffusion&type=star&count=true&size=large" frameborder="0"
+src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=StoryDiffusion&type=star&count=true&size=small" frameborder="0"
 scrolling="0"
-width="100"
-height="20"
+width="170"
+height="15"
 title="GitHub">
 </iframe> </p>   
   </sub>
