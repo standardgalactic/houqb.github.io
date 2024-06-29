@@ -24,7 +24,7 @@ Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the 
 
 My research covers a range of `Computer Vision` and `Deep Learning`. To be specific, my research concentrates on building AI models to help agents better see and understand the complex world. 
 
-Specific directions: `Semantic Segmentation` `Object Detection` `Foundation Models`
+Specific directions: `Vision Foundation Models` `Visual Scene Understanding` `Visual Content Generation`
 
 See my recent publications for more details.
 
