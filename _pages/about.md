@@ -103,6 +103,14 @@ title="GitHub">
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Zone evaluation: Revealing spatial bias in object detection</h4>   
+  <sub><p style="line-height:15px">Zhaohui Zheng, Yuming Chen, <b>Qibin Hou</b>#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/602113455" class="redlink">[知乎]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Vision permutator: A permutable mlp-like architecture for visual recognition</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
@@ -127,6 +135,24 @@ title="GitHub">
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Contrastive masked autoencoders are stronger vision learners</h4>   
+  <sub><p style="line-height:15px"> Zhicheng Huang, Xiaojie Jin, Chengze Lu, <b>Qibin Hou</b>, Ming-Ming Cheng, Dongmei Fu, Xiaohui Shen, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2207.13532">[Arxiv]</a> <a href="https://github.com/ZhichengHuang/CMAE" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Online Attention Accumulation for Weakly Supervised Semantic Segmentation</h4>   
+  <sub><p style="line-height:15px"> Peng-Tao Jiang, Ling-Hao Han, <b>Qibin Hou</b>, Ming-Ming Cheng, Yunchao Wei</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
+  <p style="line-height:15px"> <a href="https://www.researchgate.net/profile/Peng-Tao-Jiang/publication/352810988_Online_Attention_Accumulation_for_Weakly_Supervised_Semantic_Segmentation/links/62844cd5a5268672baf91a65/Online-Attention-Accumulation-for-Weakly-Supervised-Semantic-Segmentation.pdf">[Arxiv]</a> <a href="https://mmcheng.net/oaa/" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Deeply Supervised Salient Object Detection with Short Connections</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017</p> 
@@ -136,6 +162,16 @@ title="GitHub">
 </blockquote>
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation</h4>   
+  <sub><p style="line-height:15px"> Yunheng Li, ZhongYu Li, Quansheng Zeng, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">International Conference on Machine Learning (ICML), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2406.00670">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Cascade-CLIP">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation</h4>   
@@ -150,6 +186,22 @@ title="GitHub">
   <sub><p style="line-height:15px"> Jiabao Wang*, Yuming Chen*, Zhaohui Zheng, Xiang Li, Ming-Ming Cheng, <b>Qibin Hou#</b></p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2306.11369.pdf">[Arxiv]</a> <a href="https://github.com/jbwang1997/CrossKD">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Multi-Task Dense Prediction via Mixture of Low-Rank Experts</h4>   
+  <sub><p style="line-height:15px"> Yuqi Yang, Peng-Tao Jiang, <b>Qibin Hou#</b>, Hao Zhang, Jinwei Chen, Bo Li</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Multi-Task_Dense_Prediction_via_Mixture_of_Low-Rank_Experts_CVPR_2024_paper.pdf">[Arxiv]</a> <a href="https://github.com/YuqiYang213/MLoRE">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes</h4>   
+  <sub><p style="line-height:15px">Xuying Zhang, Bo-Wen Yin, Yuming Chen, Zheng Lin, Yunheng Li, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TeMO_Towards_Text-Driven_3D_Stylization_for_Multi-Object_Meshes_CVPR_2024_paper.pdf">[Arxiv]</a> <a href="https://github.com/zhangxuying1004/TeMO">[Code]</a></p>   
   </sub>
 </blockquote>
 
