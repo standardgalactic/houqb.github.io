@@ -273,4 +273,4 @@ CoordAttention">[Code]</a></p>
 + First prize in natural science, Ministry of Education, 2022.
 + Second prize in nature science, CAAI, 2020.
 
-<a href="https://clustrmaps.com/site/1c0bz"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=600&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
