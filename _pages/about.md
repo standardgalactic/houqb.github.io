@@ -40,9 +40,9 @@ We have several projects each year from the industry to ensure the applications 
 
 ## News
 
-+ One paper accepted by T-PAMI'2024
++ Two papers accepted by T-PAMI'2024
 + I am among the list of Highly Cited Chinese Researchers of 2023
-+ Five papers accepted by CVPR'24
++ Six papers accepted by CVPR'24 and ECCV'24
 + Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
 + Top 2% of Scientists on Stanford List for multiple times
