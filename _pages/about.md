@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the supervision of Prof. Ming-Ming Cheng. From 08/2019 to 08/2021, I spent two wonderful years working with Dr. Jiashi Feng and Dr. Shuicheng Yan as a research fellow at National University of Singapore. Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China. I am also with Nankai International Advanced Research Institute (Shenzhen Futian).
+Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the supervision of Prof. Ming-Ming Cheng. From 08/2019 to 08/2021, he spent two wonderful years working with Dr. Jiashi Feng and Dr. Shuicheng Yan as a research fellow at National University of Singapore. Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China. He is also with Nankai International Advanced Research Institute (Shenzhen Futian).
  <a href='https://scholar.google.com/citations?user=fF8OFV8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhouqb%2Fhouqb.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f1f1f1&color=aff&style=flat&label=citations"></a>
 
 ## Research Interests：
@@ -32,9 +32,7 @@ See my recent publications for more details.
 
 ## For prospective students
 
-If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[this]</a> already.
-
-We have several projects each year from the industry to ensure the applications of our research.
+If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[the enrollment information]</a> already.
 
 <span class='anchor' id='-news'></span>
 
