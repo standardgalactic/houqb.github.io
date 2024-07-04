@@ -111,6 +111,14 @@ title="GitHub">
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Contrastive masked autoencoders are stronger vision learners</h4>   
+  <sub><p style="line-height:15px"> Zhicheng Huang, Xiaojie Jin, Chengze Lu, <b>Qibin Hou</b>, Ming-Ming Cheng, Dongmei Fu, Xiaohui Shen, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2207.13532">[Arxiv]</a> <a href="https://github.com/ZhichengHuang/CMAE" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Vision permutator: A permutable mlp-like architecture for visual recognition</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
@@ -133,16 +141,6 @@ title="GitHub">
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2204.05957.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Contrastive masked autoencoders are stronger vision learners</h4>   
-  <sub><p style="line-height:15px"> Zhicheng Huang, Xiaojie Jin, Chengze Lu, <b>Qibin Hou</b>, Ming-Ming Cheng, Dongmei Fu, Xiaohui Shen, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2207.13532">[Arxiv]</a> <a href="https://github.com/ZhichengHuang/CMAE" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Online Attention Accumulation for Weakly Supervised Semantic Segmentation</h4>   
