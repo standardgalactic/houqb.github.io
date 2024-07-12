@@ -161,7 +161,13 @@ title="GitHub">
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
-
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Towards Stable 3D Object Detection</h4>   
+  <sub><p style="line-height:15px"> Jiabao Wang*, Qiang Meng*, Guochao Liu, Liujiang Yan, Ke Wang, Ming-Ming Cheng, <b>Qibin Hou#</b></p> 
+  <p style="line-height:15px">European Conference on Computer Vision (ECCV), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2407.04305">[Arxiv]</a> <a href="https://jbwang1997.github.io/projects/stability_index/index.html">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation</h4>   
