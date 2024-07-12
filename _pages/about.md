@@ -57,7 +57,7 @@ If you are interested in the research topics in my group, welcome to drop an ema
 + Hao Shao (2022-)
 + [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng, 2022-)
 + Bowen Yin (2023-)
-+ + Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
++ Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
 + Yunheng Li (Co-supervise with Ming-Ming Cheng, 2023-)
 
 #### Master Students
