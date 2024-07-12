@@ -52,18 +52,20 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 #### Ph.D. Students
 
-+ Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)
-+ Jiabao Wang (Co-supervise with Ming-Ming Cheng)
-+ Boyuan Sun (Co-supervise with Prof. Xiuli Shao)
-+ Hao Shao
-+ Bowen Yin
-+ [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng)
++ Zhaohui Zheng (Co-supervise with Ming-Ming Cheng, 2021-)
++ Jiabao Wang (Co-supervise with Ming-Ming Cheng, 2022-)
++ Hao Shao (2022-)
++ [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng, 2022-)
++ Bowen Yin (2023-)
++ + Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
++ Yunheng Li (Co-supervise with Ming-Ming Cheng, 2023-)
 
 #### Master Students
 
-+ Yupeng Zhou
-+ Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)
-+ Yuming Chen (Co-supervise with Prof. Xiuli Shao)
++ Yupeng Zhou (2022-)
++ Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng, 2022-)
++ Yuming Chen (Co-supervise with Prof. Xiuli Shao, 2022-)
++ Xinbin Yuan (2023-)
  
 <span class='anchor' id='-pub'></span>
 
