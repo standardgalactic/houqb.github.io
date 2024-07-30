@@ -59,11 +59,11 @@ If you are interested in the research topics in my group, welcome to drop an ema
 + [Bowen Yin](https://scholar.google.com/citations?user=xr_FRrEAAAAJ&hl=en&oi=sra) (2023-)
 + Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
 + [Yunheng Li](https://scholar.google.com/citations?user=pqloKgIAAAAJ&hl=en&oi=ao) (Co-supervise with Ming-Ming Cheng, 2023-)
-+ Yuming Chen (Co-supervise with Prof. Ming-Ming Cheng, 2024-)
++ [Yuming Chen](https://scholar.google.com/citations?hl=en&user=EweNbRAAAAAJ) (Co-supervise with Prof. Ming-Ming Cheng, 2024-)
++ [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (2024-)
 
 #### Master Students
 
-+ [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (2022-)
 + Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng, 2022-)
 + Xinbin Yuan (2023-)
  
