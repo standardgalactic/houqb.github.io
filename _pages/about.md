@@ -38,13 +38,13 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 ## News
 
-+ Two papers accepted by T-PAMI'2024
++ Four papers accepted by TPAMI'2024
 + I am among the list of Highly Cited Chinese Researchers of 2023
 + Six papers accepted by CVPR'24 and ECCV'24
 + Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
 + Top 2% of Scientists on Stanford List for multiple times
-+ Five papers published in T-PAMI'2023
++ Three papers published in TPAMI'2023
 
 <span class='anchor' id='-group'></span>
 
