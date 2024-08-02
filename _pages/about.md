@@ -259,7 +259,7 @@ CoordAttention">[Code]</a></p>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Self-Earsing Networks for Integral Object Attention</h4>   
+  <h4>Self-Erasing Networks for Integral Object Attention</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Peng-Tao Jiang, Yunchao Wei, Ming-Ming Cheng </p> 
   <p style="line-height:15px">Advances in Neural Information Processing Systems (NeurIPS), 2018</p>   
   <p style="line-height:15px"> <a href="https://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SeeNet">[Code]</a></p>   
